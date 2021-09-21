@@ -1,0 +1,20 @@
+{
+  "name": "space_invadors",
+  "version": "1.0.0",
+  "description": "The original arcade game, Space Invaders, has been recreated and can be played using the command line and node.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanchayata-jain/Space_Invaders.git"
+  },
+  "author": "Sanchayata Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanchayata-jain/Space_Invaders/issues"
+  },
+  "homepage": "https://github.com/sanchayata-jain/Space_Invaders#readme"
+}
